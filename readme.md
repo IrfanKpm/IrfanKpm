@@ -10,7 +10,7 @@
 - 📫 You can reach at: muhammedirfanp002@gmail.com 
 - 🎆 I'm Open for New Opportunities.
 
-![Profile Views](https://komarev.com/ghpvc/?username=IrfanKpm)
+
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=IrfanKpm&show_icons=true)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrfanKpm&layout=compact)](https://github.com/IrfanKpm)
