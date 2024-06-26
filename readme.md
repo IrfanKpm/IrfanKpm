@@ -4,4 +4,4 @@
 <a href="https://twitter.com/irfan_kpm_"><img src="https://github.com/IrfanKpm/IrfanKpm/blob/main/logos/twitter.png" width="40" /></a>
 <a href="https://www.instagram.com/irfan_kpm_"><img src="https://github.com/IrfanKpm/IrfanKpm/blob/main/logos/instagram.png" width="40" /></a>
 
-- ⏳Offline
+- ⏳In a learning phase
