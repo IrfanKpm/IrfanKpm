@@ -69,9 +69,9 @@ I’m continually learning and experimenting with these technologies. If you sha
 
 ### 👉 Web Development Stacks
 
-<img width="420px" src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
-<img width="420px" src="https://skillicons.dev/icons?i=redux,mongodb,postgresql,postman,tailwind,bootstrap" />
+<img width="450px" src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+<img width="450px" src="https://skillicons.dev/icons?i=redux,mongodb,postgresql,postman,tailwind,bootstrap" />
 
 ### 👉 Software & Tools
 
-<img width="300px" src="https://skillicons.dev/icons?i=git,linux,kali,vscode" />
+<img width="270px" src="https://skillicons.dev/icons?i=git,linux,kali,vscode" />
