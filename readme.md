@@ -14,7 +14,7 @@
 
 <h3> A bit about me: </h3>
 
-I’m a tech enthusiast with a growing interest in machine learning, web development, and cybersecurity. My journey started with languages like Python, JavaScript, C++, and C.
+I’m a tech enthusiast with a growing interest in machine learning, web development, and cybersecurity. My journey started with languages like Python, JavaScript, and C++.
 
 In machine learning, I’m exploring Scikit-Learn and TensorFlow, and learning about techniques like convolutional neural networks (CNNs), recurrent neural networks (RNNs), and natural language processing (NLP). I’m also getting into computer vision with OpenCV.
 
