@@ -65,12 +65,12 @@ I’m continually learning and experimenting with these technologies. If you sha
 
 ### 👉 Frameworks & Libraries
 
-<img width="272px" src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,fastapi" />
+<img width="272px" src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,django" />
 
 ### 👉 Web Development Stacks
 
-<img width="408px" src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
-<img width="408px" src="https://skillicons.dev/icons?i=redux,mongodb,postgresql,postman,tailwind,bootstrap" />
+<img width="340px" src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+<img width="340px" src="https://skillicons.dev/icons?i=express,mongodb,postman,tailwind,bootstrap" />
 
 ### 👉 Software & Tools
 
