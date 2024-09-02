@@ -16,9 +16,9 @@
 
 I’m a tech enthusiast with a growing interest in machine learning, web development, and cybersecurity. My journey started with languages like Python, JavaScript, and C++.
 
-In machine learning, I’m exploring Scikit-Learn and TensorFlow, and learning about techniques like convolutional neural networks (CNNs), recurrent neural networks (RNNs), and natural language processing (NLP). I’m also getting into computer vision with OpenCV.
+In machine learning, I’m working with Scikit-Learn and TensorFlow, focusing on applying various techniques across different domains, including neural networks and computer vision.
 
-For web development, I’m learning the MERN stack (MongoDB, Express.js, React.js, and Node.js) and working on building dynamic and responsive web applications.
+For web development, I’m working with the MERN stack (MongoDB, Express.js, React.js, and Node.js), along with Django and Django REST Framework (DRF) to build dynamic and scalable web applications.
 
 Cybersecurity is another area I’m interested in, and I’m learning about its fundamental concepts and how it fits into the broader tech landscape.
 
@@ -65,7 +65,7 @@ I’m continually learning and experimenting with these technologies. If you sha
 
 ### 👉 Frameworks & Libraries
 
-<img width="272px" src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,django" />
+<img width="278px" src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,django" />
 
 ### 👉 Web Development Stacks
 
