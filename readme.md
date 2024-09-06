@@ -51,7 +51,9 @@ I’m continually learning and experimenting with these technologies. If you sha
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=IrfanKpm&show_icons=true&locale=en&theme=tokyonight&border_color=0d1117&border_radius=10" alt="stats" width="400" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IrfanKpm&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_color=0d1117&border_radius=10&langs_count=8" alt="top-langs" width="400" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IrfanKpm&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_color=0d1117&border_radius=10&langs_count=8&exclude_repo=machine-learning-diaries,Learn-cv" alt="top-langs" width="400" height="200" />
+
+
 </div>
 
 <br>
