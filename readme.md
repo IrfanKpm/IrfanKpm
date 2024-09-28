@@ -39,8 +39,6 @@ I’m continually learning and experimenting with these technologies. If you sha
   <a href="https://leetcode.com/u/IrfanKpm/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" width="130" height="30"></a>
   &emsp;
   <a href="https://tryhackme.com/p/MuhammedIrfanP" target="_blank"><img src="https://img.shields.io/badge/-TryHackMe-004d00?style=for-the-badge&logo=TryHackMe&logoColor=white" width="130" height="30"></a>
-  &emsp;
-  <a href="https://lichess.org/@/Irfan_kpm" target="_blank"><img src="https://img.shields.io/badge/-Lichess-6F4F28?style=for-the-badge&logo=Lichess&logoColor=white" width="130" height="30"></a>
 </p>
 
 ## 📊 GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
