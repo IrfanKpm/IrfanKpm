@@ -1,77 +1,99 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Irfan </h1>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Irfan
+</h1>
+
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Age-20-blue.svg" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Age-21-blue.svg" />
   <img src="https://img.shields.io/badge/Lives-Kerala-success" />
-  <img src="https://komarev.com/ghpvc/?username=IrfanKpm&color=brightgreen&style=flat-square" alt="views on github" />
-  <img src="https://img.shields.io/github/followers/IrfanKpm.svg?style=social&label=Followers" />
+  <img src="https://komarev.com/ghpvc/?username=IrfanKpm&color=brightgreen&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/IrfanKpm?style=social" />
 </p>
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=39FF14&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile+%F0%9F%98%8A)](https://git.io/typing-svg)
+# 🚀 About Me
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+- 🔭 Currently focused on **Artificial Intelligence & Machine Learning**
+- 🧠 Exploring **LLMs, RAG Systems, Agentic AI & AI Architecture**
+- 🌱 Learning **Deep Learning & Reinforcement Learning**
+- 💡 Passionate about building **real-world intelligent systems**
+- ⚡ Interested in **AI automation & applied ML solutions**
 
-<h3> A bit about me: </h3>
+---
 
-I’m a tech enthusiast with a growing interest in machine learning, web development, and cybersecurity. My journey started with languages like Python, JavaScript, and C++.
-
-In machine learning, I’m working with Scikit-Learn and TensorFlow, focusing on applying various techniques across different domains, including neural networks and computer vision.
-
-For web development, I’m working with the MERN stack (MongoDB, Express.js, React.js, and Node.js), along with Django and Django REST Framework (DRF) to build dynamic and scalable web applications.
-
-Cybersecurity is another area I’m interested in, and I’m learning about its fundamental concepts and how it fits into the broader tech landscape.
-
-I’m continually learning and experimenting with these technologies. If you share similar interests or have any questions, feel free to connect with me!
-
-<p>Connect with me on:
-<br>    
-  <a href="mailto:muhammedirfan002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="130" height="30"></a>
-  &emsp;
-  <a href="https://www.linkedin.com/in/muhammed-irfan-p/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" width="130" height="30"></a>
-  &emsp;
-  <a href="https://www.instagram.com/irfan_kpm_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" width="130" height="30"></a>
-  &emsp;
-  <a href="https://x.com/irfan_kpm_" style="text-decoration: none;"><img src="https://img.shields.io/badge/-X%20Twitter-000000?style=for-the-badge&logo=none&logoColor=white" width="130" height="30" alt="X Twitter"></a>
-</p>
-
-<p>
-  <a href="https://leetcode.com/u/IrfanKpm/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" width="130" height="30"></a>
-  &emsp;
-  <a href="https://tryhackme.com/p/MuhammedIrfanP" target="_blank"><img src="https://img.shields.io/badge/-TryHackMe-004d00?style=for-the-badge&logo=TryHackMe&logoColor=white" width="130" height="30"></a>
-</p>
-
-## 📊 GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+# 🤝 Connect With Me
 
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
+  <a href="mailto:muhammedirfan002@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/muhammed-irfan-p/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/irfan_kpm_/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/IrfanKpm/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" />
+  </a>
 </p>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=IrfanKpm&show_icons=true&locale=en&theme=tokyonight&border_color=0d1117&border_radius=10" alt="stats" width="400" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IrfanKpm&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_color=0d1117&border_radius=10&langs_count=8&exclude_repo=machine-learning-diaries,Learn-cv" alt="top-langs" width="400" height="200" />
+---
 
+# 📊 GitHub Analytics
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=IrfanKpm&theme=github-dark&hide_border=true"/>
+</p>
 
-<br>
-<hr>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IrfanKpm&theme=tokyonight"/>
+</p>
 
-## 🛠 My Skills
+---
 
-### 👉 Programming Languages
+# 🛠️ Tech Stack
 
-<img width="272px" src="https://skillicons.dev/icons?i=python,cpp,c,js" />
+## 💻 Programming Languages
 
-### 👉 Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-<img width="278px" src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,django" />
+## 🤖 AI / ML
 
-### 👉 Web Development Stacks
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
 
-<img width="340px" src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
-<img width="340px" src="https://skillicons.dev/icons?i=express,mongodb,postman,tailwind,bootstrap" />
+## ⚙️ Tools & Frameworks
 
-### 👉 Software & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
-<img width="272px" src="https://skillicons.dev/icons?i=git,linux,kali,vscode" />
+## 🗄️ Databases
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+<p align="center"><i>"Engineering intelligence, not just software."</i></p>
