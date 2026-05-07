@@ -21,28 +21,6 @@
 
 ---
 
-# 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:muhammedirfan002@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/muhammed-irfan-p/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/irfan_kpm_/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/IrfanKpm/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
-  </a>
-</p>
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
