@@ -24,7 +24,7 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=IrfanKpm&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=irfankpm&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
